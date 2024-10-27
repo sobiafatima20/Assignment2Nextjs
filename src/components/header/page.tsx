@@ -7,7 +7,7 @@ const Header = () => {
   return (
     <>
       <header className={headerStyle.header}>
-        <h1 className={headerStyle.h1}>Foodie's Paradise</h1>
+        <h1 className={headerStyle.h1}>Foodie&apos;s Paradise</h1>
         <nav className={headerStyle.nav}>
           <ul className={headerStyle.ul}>
             <li className={headerStyle.li}>

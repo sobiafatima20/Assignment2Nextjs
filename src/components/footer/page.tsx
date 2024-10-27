@@ -9,7 +9,7 @@ const Footer = () => {
       <div className={footerStyle.div}>
         <div className={footerStyle.food}>
           <div>
-            <h1 className={footerStyle.h1}>Foodie's Paradise</h1>
+            <h1 className={footerStyle.h1}>Foodie&apos;s Paradise</h1>
             <div className={footerStyle.p}>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non minima dignissimos repellendus!</div>
             <div>
               <FaPhone className={footerStyle.faphone}/>
@@ -64,7 +64,7 @@ const Footer = () => {
         </div>
       </div>
       <div className={footerStyle.copy}>
-        Copyright &copy; Foodie's Paradise 2024 By Sobia Fatima | All rights reserved.
+        Copyright &copy; Foodie&apos;s Paradise 2024 By Sobia Fatima | All rights reserved.
       </div>
     </footer>
     </>
